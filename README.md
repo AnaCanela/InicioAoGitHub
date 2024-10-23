@@ -1,2 +1,2 @@
 # InicioAoGitHub
- Meu primeiro repod. da rede
+ Meu primeiro repositorio da rede
